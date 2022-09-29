@@ -1,2 +1,2 @@
 # Airbnb-data-analyst123
-Analyzing the data of Airbnb guests and hosts. 
+Analyzing the data of hosts and discovering the booking trends. 
